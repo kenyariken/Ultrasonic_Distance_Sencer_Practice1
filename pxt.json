@@ -1,5 +1,5 @@
 {
-    "name": "超音波センサーキット実習1（変数）",
+    "name": "超音波センサー実習‗変数最終",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "7.0.57",
+        "target": "8.0.18",
         "targetId": "microbit"
     },
     "supportedTargets": [
